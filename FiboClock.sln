@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiboClock", "FiboClock\FiboClock.csproj", "{674039A6-2D12-47AE-9D77-7632CC71E59E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiboClock.Web", "FiboClock.Web\FiboClock.Web.csproj", "{BA4F43E5-B16D-4479-8F0F-72AA8DF1D0C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{674039A6-2D12-47AE-9D77-7632CC71E59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674039A6-2D12-47AE-9D77-7632CC71E59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674039A6-2D12-47AE-9D77-7632CC71E59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674039A6-2D12-47AE-9D77-7632CC71E59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA4F43E5-B16D-4479-8F0F-72AA8DF1D0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4F43E5-B16D-4479-8F0F-72AA8DF1D0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4F43E5-B16D-4479-8F0F-72AA8DF1D0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4F43E5-B16D-4479-8F0F-72AA8DF1D0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
