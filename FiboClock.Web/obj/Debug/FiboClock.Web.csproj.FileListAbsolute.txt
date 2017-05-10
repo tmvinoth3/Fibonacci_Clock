@@ -2,3 +2,7 @@ c:\users\575435\documents\visual studio 2010\Projects\FiboClock\FiboClock.Web\bi
 c:\users\575435\documents\visual studio 2010\Projects\FiboClock\FiboClock.Web\bin\FiboClock.Web.pdb
 c:\users\575435\documents\visual studio 2010\Projects\FiboClock\FiboClock.Web\obj\Debug\FiboClock.Web.dll
 c:\users\575435\documents\visual studio 2010\Projects\FiboClock\FiboClock.Web\obj\Debug\FiboClock.Web.pdb
+D:\Projects\FiboClock\FiboClock.Web\bin\FiboClock.Web.dll
+D:\Projects\FiboClock\FiboClock.Web\bin\FiboClock.Web.pdb
+D:\Projects\FiboClock\FiboClock.Web\obj\Debug\FiboClock.Web.dll
+D:\Projects\FiboClock\FiboClock.Web\obj\Debug\FiboClock.Web.pdb
